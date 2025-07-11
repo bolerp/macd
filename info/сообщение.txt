@@ -1,0 +1,6 @@
+*MACD-Сигнал* для `GOAT` (Goatseus Maximus)
+Цена: `0.14057594` USD
+MACD: `-0.00114171` → `0.00171086`
+Объём USD (день): `847639`
+
+[DexScreener](https://dexscreener.com/solana/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump)  |  [Birdeye](https://birdeye.so/token/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump?chain=solana)
